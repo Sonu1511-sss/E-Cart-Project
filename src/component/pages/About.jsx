@@ -65,7 +65,7 @@ const About = () => {
       
       {/* Large Team Image */}
       <div className="mb-8">
-        <img src="./assids/team2.jpeg" alt="Our Team" className="w-full h-64 object-cover rounded-lg" />
+        <img src="./assids/team2.jpeg" alt="Our Team" className="w-full h-[34rem] object-cover rounded-lg" />
       </div>
 
       {/* Individual Team Members */}
