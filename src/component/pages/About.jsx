@@ -54,7 +54,7 @@ const About = () => {
       </p>
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 mb-8">
         {/* Placeholder partner logos */}
-        <img src="./assids/shubha.jpeg" alt="Partner 1" className="w-full h-28 object-contain" />
+        <img src="c" alt="Partner 1" className="w-full h-28 object-contain" />
         <img src="./assids/dharam.jpeg" alt="Partner 2" className="w-full h-28 object-contain" />
         <img src="./assids/samjay.jpeg" alt="Partner 3" className="w-full h-28 object-contain" />
         <img src="./assids/nilkhil.jpeg" alt="Partner 4" className="w-full h-28 object-contain" />

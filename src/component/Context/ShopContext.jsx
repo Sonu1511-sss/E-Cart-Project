@@ -6,7 +6,7 @@ export const ShopContext = createContext();
 
 const ShopProvider = (props) => {
   const Currency = "$";
-  const delivery_fee = 30;
+  const delivery_fee = 10;
   const [CartItems, setCartItems] = useState({});
   const [cartTotal, setCartTotal] = useState(0); // Add cartTotal state
 
